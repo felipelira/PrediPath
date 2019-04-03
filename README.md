@@ -14,7 +14,7 @@ This workflow will allows the creation of exclusive datasets of markers that cou
 
 
 
-References
+# References
 
 [1] Chen LH, Yang J, Yu J, Yao ZJ, Sun LL, Shen Y and Jin Q, 2005. VFDB: a reference database for bacterial virulence factors. Nucleic Acids Res. 36 (Database issue):D539-D542.
 
