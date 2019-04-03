@@ -4,8 +4,7 @@ This repository is used to Predipath
 
 
 ## Development
-PrediPath development was started by the collaboration between the Institut de Recherche en Horticulture et Semences (IRHS) and the 
-Université Bretagne Loire (UBL).
+PrediPath development was started by the collaboration between the **Institut de Recheche Agronomic - INRA** and the **Université Bretagne Loire - UBL**.
 
 ## Funding
-This project receives fundings from the People Programme - Marie Curie Actions of the European Union’s Seventh Framework Programme (FP7/2007-2013) under REA grant agreement n. PCOFUND-GA-2013-609102, through the PRESTIGE Programme coordinated by Campus France, and from University Bretagne Loire, Programme d’Attractivité Post-Doctorale. It was conducted in the framework of the regional program “Objectif Végétal, Research, Education and Innovation in Pays de la Loire”, supported by the French Region Pays de la Loire and Angers Loire Métropole.
+This project, performed at the **Institut de Recherche en Horticulture et Semences (IRHS)**, receives fundings from the People Programme - **Marie Curie Actions** of the European Union’s Seventh Framework Programme (FP7/2007-2013) under REA grant agreement n. PCOFUND-GA-2013-609102, through the **PRESTIGE Programme** coordinated by **Campus France**, and from **University Bretagne Loire**, Programme d’Attractivité Post-Doctorale. It was conducted in the framework of the regional program “Objectif Végétal, Research, Education and Innovation in Pays de la Loire”, supported by the French Region Pays de la Loire and Angers Loire Métropole.
