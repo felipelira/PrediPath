@@ -1,1 +1,3 @@
-Directory created to store the databases for the PrediPath predictive tool.
+This directory is created to store the databases used by PrediPath.
+
+For each genus, you will retrieve a specific database containing specific marquers to detect the potential bacterial pathogenicity.
