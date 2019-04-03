@@ -10,7 +10,7 @@ Three strategies are applied:
 
    III – An additional strategy allowed to search plasmids to characterize P or NP groups.
 
-
+This workflow will allows the creation of exclusive datasets of markers that could be used as predictors to diagnostic the potential pathogenicity of plant associated bacteria.
 
 
 
