@@ -4,6 +4,12 @@
 
 
 This repository is used to Predipath scripts and databases.
+## Introduction
+Download the code:
+'''
+git clone 
+'''
+
 
 
 ## Development
