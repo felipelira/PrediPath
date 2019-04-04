@@ -14,10 +14,10 @@ Suplementary scripts used to standarize the input files used by PrediPath and po
               | ACGTGCTGATGCATCCATCG           |            seq2.fasta
               | >seq3                          |            >seq2
               | AATCTCGCTGATCGTCAGTAGC         |            ACGTGCTGATGCATCCATCG
-              |             
-              |                                             seq3.fasta
-              |                                             >seq3
-              |                                             AATCTCGCTGATCGTCAGTAGC
+              |                                |
+              |                                |            seq3.fasta
+              |                                |            >seq3
+              |                                |            AATCTCGCTGATCGTCAGTAGC
 ```
                                               
 
