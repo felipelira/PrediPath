@@ -5,6 +5,12 @@
 
 This repository is used to Predipath scripts and databases.
 ## Introduction
+
+Make sure you have `git` installed in your computer:
+```
+sudo apt install python-setuptools python-dev build-essential # Ubuntu
+```
+
 Download the code:
 
 ```
