@@ -17,7 +17,7 @@ This project, performed at the **Institut de Recherche en Horticulture et Semenc
 3. Regional program “Objectif Végétal, Research, Education and Innovation in Pays de la Loire”, supported by the French Region Pays de la Loire and Angers Loire Métropole.
 
 ## Authors
-* [Felipe Lira]
+* [Felipe Lira](https://github.com/felipelira)
 * [Martial Briand]
 * [Perrine Portier]
 * [Gilles Hunault]
