@@ -13,7 +13,7 @@ sudo apt install python-setuptools python-dev build-essential # Ubuntu
 Download the `PrediPath` folder from Github:
 ```download
 git clone https://github.com/felipelira/PrediPath
-cd Predipath
+cd PrediPath
 chmod +x predipath_pipeline.py
 ln -s predipath_pipeline.py /usr/local/bin/predipath
 ```
