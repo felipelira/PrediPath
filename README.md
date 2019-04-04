@@ -6,9 +6,10 @@
 This repository is used to Predipath scripts and databases.
 ## Introduction
 Download the code:
-'''
-git clone 
-'''
+
+```
+git clone https://github.com/felipelira/PrediPath
+```
 
 
 
