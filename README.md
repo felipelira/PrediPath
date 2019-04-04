@@ -14,6 +14,7 @@ Download the `PrediPath` folder
 ```
 git clone https://github.com/felipelira/PrediPath
 cd Predipath
+chmod +x predipath_pipeline.py
 ```
 
 ## Development
