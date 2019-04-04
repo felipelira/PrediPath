@@ -11,7 +11,7 @@ Make sure you have `git` installed in your computer:
 sudo apt install python-setuptools python-dev build-essential # Ubuntu
 ```
 Download the `PrediPath` folder
-```
+```download
 git clone https://github.com/felipelira/PrediPath
 cd Predipath
 chmod +x predipath_pipeline.py
