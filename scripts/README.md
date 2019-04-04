@@ -3,24 +3,20 @@ Suplementary scripts used to standarize the input files used by PrediPath and po
 
 ## Scripts description:
 
-    # gbk2faa.py
+    'gbk2faa.py'
         Extract the proteomes from .gbk (.gbff) files. Resulting file is used by PrediPath.
         
-    # multifasta2fasta.py
-        Convert a multifasta file to single .fasta files.
+    'multifasta2fasta.py'
+        Convert a multifasta file to single .fasta files and save it in a .zip file
         
-            multi.fasta
-            >seq1
-            AGTCGTACGTATACTGA
+            multi.fasta                                 seq1.fasta
+            >seq1                                       >seq1
+            AGTCGTACGTATACTGA                           AGTCGTACGTATACTGA
             >seq2
-            ACGTGCTGATGCATCCATCG
-            >seq3
-            AATCTCGCTGATCGTCAGTAGC
+            ACGTGCTGATGCATCCATCG           ---->        seq2.fasta
+            >seq3                                       >seq2
+            AATCTCGCTGATCGTCAGTAGC                      ACGTGCTGATGCATCCATCG
             
-            seq1.fasta
-            >seq1
-            AGTCGTACGTATACTGA
-            
-            seq2.fasta
-            >seq1
-            ACGTGCTGATGCATCCATCG
+                                                        seq3.fasta
+                                                        >seq3
+                                                        AATCTCGCTGATCGTCAGTAGC
