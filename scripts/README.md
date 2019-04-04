@@ -10,7 +10,6 @@ gbk2faa.py
 multifasta2fasta.py
 
         Convert a multifasta file to single .fasta files and save it in a .zip file
-```
                multi.fasta                    |            seq1.fasta
                >seq1                          |            >seq1
                AGTCGTACGTATACTGA              |            AGTCGTACGTATACTGA
@@ -22,5 +21,5 @@ multifasta2fasta.py
                                                             seq3.fasta
                                                             >seq3
                                                             AATCTCGCTGATCGTCAGTAGC
-```                                                
+                                              
 
