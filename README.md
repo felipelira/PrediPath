@@ -16,3 +16,10 @@ This project, performed at the **Institut de Recherche en Horticulture et Semenc
 2. University Bretagne Loire, Programme d’Attractivité Post-Doctorale;
 3. Regional program “Objectif Végétal, Research, Education and Innovation in Pays de la Loire”, supported by the French Region Pays de la Loire and Angers Loire Métropole.
 
+## Authors
+* [Felipe Lira]
+* [Martial Briand]
+* [Perrine Portier]
+* [Gilles Hunault]
+* [Claudine Landes]
+* [Marion Fischer-Le Saux]
