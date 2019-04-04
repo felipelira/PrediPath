@@ -11,8 +11,7 @@ Make sure you have `git` installed in your computer:
 sudo apt install python-setuptools python-dev build-essential # Ubuntu
 ```
 
-Download the code:
-
+Download the `PrediPath` folder
 ```
 git clone https://github.com/felipelira/PrediPath
 cd Predipath
