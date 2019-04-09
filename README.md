@@ -1,4 +1,4 @@
-<img align="left" width="10%" src="fig_predipath.png"> 
+<img align="left" width="15%" src="fig_predipath.png"> 
 
 # PREDIcting the bacterial PATHogenicity on plants
 # PREDIPATH
