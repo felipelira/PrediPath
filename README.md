@@ -1,6 +1,6 @@
 <img align="left" width="15%" src="fig_predipath.png"> 
 
-# PREDIcting the bacterial PATHogenicity on plants - PREDIPATH
+# PREDIPATH - PREDIcting the bacterial PATHogenicity on plants
 
 
 This repository is used to Predipath scripts and databases.
