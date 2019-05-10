@@ -1,0 +1,50 @@
+import sys
+import os
+from Bio import SeqIO
+
+"""
+DBGWAS software extracts and identifies specific (or preferential) kmers from two different groups.
+
+The present script compiles the data from the significant kmers in each group. It extracts the .fasta sequences
+from them and creates one matrix with these exclusive/preferential kmers.
+"""
+
+list_unitigs = []
+dict_nodes = {}
+
+# directory with outputs DBGWAS 
+indir = sys.argv[1]
+
+# read and list significant unitigs
+sig_unitigs = open("/".join([indir,"step3", "significant_unitigs.txt"]) , "r")
+
+# store significant nodes in list
+for line in sig_unitigs:
+	node = line.strip()
+	list_unitigs.append(node)
+print len(list_unitigs), "significant unitigs"
+
+# Read file with nodes and store in dictionary
+nodes = open("/".join([indir,"step1","graph.nodes"]) , "r")
+
+outfile_nodes = open("/".join([indir,"graph.nodes.significant.fasta"]), "w")
+
+for line in nodes:
+	node = line.strip().split('\t')[0]
+	seq = line.strip().split('\t')[1]
+	if node in list_unitigs:
+		outfile_nodes.write(">" + node + "\n" + seq + "\n")
+		dict_nodes[node] = seq
+
+# read and extract binary lines according the signiificant unitigs in list_unitigs
+matrix = open("/".join([indir,"step1","bugwas_input.all_rows.binary"]) , "r")
+
+matrix_significants = open("/".join([indir,"bugwas_input.all_rows.binary.significant"]) , "w")
+
+first = matrix.readline().strip()
+matrix_significants.write(first + "\n")
+
+for line in matrix:
+	unitig = line.strip().split()[0]
+	if unitig in list_unitigs:
+		matrix_significants.write(line)
