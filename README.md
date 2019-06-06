@@ -2,7 +2,7 @@
 
 # PREDIPATH
 # PREDIcting the bacterial PATHogenicity on plants
-# A Plant Pathogenicity Predictor Pipeline developed by 
+# A Plant Pathogenicity Predictor Pipeline 
 
 
 This repository is used to Predipath scripts and databases.
