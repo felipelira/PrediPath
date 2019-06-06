@@ -2,6 +2,7 @@
 
 # PREDIPATH
 # PREDIcting the bacterial PATHogenicity on plants
+# A Plant Pathogenicity Predictor Pipeline developed by 
 
 
 This repository is used to Predipath scripts and databases.
@@ -37,3 +38,4 @@ This project, performed at the **Institut de Recherche en Horticulture et Semenc
 * [Gilles Hunault]
 * [Claudine Landes]
 * [Marion Fischer-Le Saux]
+
