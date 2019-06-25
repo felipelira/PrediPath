@@ -20,6 +20,9 @@ cd PrediPath
 chmod +x predipath_pipeline.py
 ln -s predipath_pipeline.py /usr/local/bin/predipath
 ```
+## Pipeline
+<img align="left" width="70%" src="pipeline.png"> 
+
 
 ## Development
 PrediPath development was started by the collaboration between the **Institut de Recheche Agronomic - INRA** and the **Université Bretagne Loire - UBL**.
