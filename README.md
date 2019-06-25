@@ -24,7 +24,7 @@ ln -s predipath_pipeline.py /usr/local/bin/predipath
 ## Development
 PrediPath development was started by the collaboration between the **Institut de Recheche Agronomic - INRA** and the **Université Bretagne Loire - UBL**.
 
-<img align="center" width="100%" src="pipeline.png"> 
+<img align="center" width="80%" src="pipeline.png"> 
 
 ## Fundings
 This project, performed at the **Institut de Recherche en Horticulture et Semences (IRHS)**, is supported by fundings from:
