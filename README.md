@@ -21,7 +21,7 @@ chmod +x predipath_pipeline.py
 ln -s predipath_pipeline.py /usr/local/bin/predipath
 ```
 ## Pipeline
-<img src="pipeline.png" width="70%" alt="pipeline" class="center"> 
+<img src="pipeline.png" width="100%" alt="pipeline" class="center"> 
 
 
 ## Development
