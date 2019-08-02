@@ -24,6 +24,7 @@ ln -s predipath_pipeline.py /usr/local/bin/predipath
 Download the files in https://github.com/felipelira/PrediPath/tree/master/databases/general and move them to your desired PATH.
 
   The basic command is:
+  
     blastp -db [PATH to the database]/Predipath_DB_aa_nr_raw -query [your proteome]
 
 
