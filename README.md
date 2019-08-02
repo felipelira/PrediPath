@@ -53,7 +53,8 @@ For each genus, you will retrieve a specific database containing specific marque
 
 ## Development of PREDIPATH Database
 
-PREDIPATH-DB is compose by the compilation of five public datasets of sequences related to antimicrobial and heavy metal resistance, and to virulence [1-5]
+The PREDIPATH-DB was compiled using the sequences from five public repositories: Virulence Factors Database (VFDB) (Liu, Zheng, Jin, Chen, & Yang, 2019)⁠, Antibacterial, Biocide and Metal Resistance Genes Database (BacMet) (Pal, Bengtsson-Palme, Rensing, Kristiansson, & Larsson, 2014)⁠, Comprehensive Antibiotic Resistance Database (ARPCARD) (McArthur et al., 2013)⁠, Antibiotic Resistance Genes Database (ARDB) (Liu & Pop, 2009)⁠, and the Antibiotic Resistance Gene-ANNOTation (ARG-ANNOT) (Gupta et al., 2014)⁠. All the sequences files were merged and clustered using CD-HIT with 95% of identity and 80% of coverage.
+
 ```
   1. Liu, B., Zheng D., Jin Q., Chen L. and Yang J.: VFDB 2019: a comparative pathogenomic platform with an interactive web interface. Nucleic Acids Research, Vol. 47, Database issue D687–D692 (2019). doi: 10.1093/nar/gky1080
   2. Pal C., Bengtsson-Palme J., Rensing C., Kristiansson E. and Larsson D.G.J.: BacMet: antibacterial biocide and metal resistance genes database. Nucleic Acids Research, Vol. 42, D737–D743 (2014). doi:10.1093/nar/gkt1252
