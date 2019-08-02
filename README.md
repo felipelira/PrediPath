@@ -56,7 +56,7 @@ The PREDIPATH-DB was compiled using the sequences from five public repositories:
 * [Felipe Lira](https://github.com/felipelira)
 * [Martial Briand]
 * [Perrine Portier]
-* [Gilles Hunault] (http://forge.info.univ-angers.fr/~gh/)
+* [Gilles Hunault](http://forge.info.univ-angers.fr/~gh/)
 * [Claudine Landes]
 * [Marion Fischer-Le Saux]
 
