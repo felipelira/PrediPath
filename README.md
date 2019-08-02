@@ -53,7 +53,7 @@ The PREDIPATH-DB was compiled using the sequences from five public repositories:
 
 
 ## Who we are
-<img align="left" width="10%" src="figures/0.png">(https://orcid.org/0000-0002-5953-554X)
+* ["figures/0.png"](https://orcid.org/0000-0002-5953-554X)
 
 * [Felipe Lira](https://github.com/felipelira) 
 * [Martial Briand]
