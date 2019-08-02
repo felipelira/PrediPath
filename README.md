@@ -25,7 +25,7 @@ Download the files in https://github.com/felipelira/PrediPath/tree/master/databa
 
   The basic command is:
   
-    blastp -db [PATH to the database]/Predipath_DB_aa_nr_raw -query [your proteome]
+    blastp -db Predipath_DB_aa_nr_raw -query [your_proteome.faa]
 
 
 ## Development
