@@ -38,18 +38,6 @@ This project, performed at the **Institut de Recherche en Horticulture et Semenc
 2. University Bretagne Loire, Programme d’Attractivité Post-Doctorale;
 3. Regional program “Objectif Végétal, Research, Education and Innovation in Pays de la Loire”, supported by the French Region Pays de la Loire and Angers Loire Métropole.
 
-## PrediPath Project
-* [Felipe Lira](https://github.com/felipelira)
-* [Martial Briand]
-* [Perrine Portier]
-* [Gilles Hunault]
-* [Claudine Landes]
-* [Marion Fischer-Le Saux]
-
-
-This directory is created to store the databases used by PrediPath.
-
-For each genus, you will retrieve a specific database containing specific marquers to detect the potential bacterial pathogenicity.
 
 ## Development of PREDIPATH Database
 
@@ -62,3 +50,18 @@ The PREDIPATH-DB was compiled using the sequences from five public repositories:
   4. Liu B., Pop M.: ARDB—Antibiotic Resistance Genes Database. Nucleic Acids Research, 2009, Vol. 37, Database issue D443–D447 (2009). doi:10.1093/nar/gkn656
   5. Gupta, S.K., Padmanabhan, B.R., Diene, S.M., Lopez-Rojas, R., Kempf, M., Landraud, L., Rolain, Jean-Marc. ARG-ANNOT, a New Bioinformatic Tool To Discover Antibiotic Resistance Genes in Bacterial Genomes. Antimicrobial Agents and Chemotherapy, Vol. 58 Number 1, p. 212–220 (2014). doi:10.1128/AAC.01310-13
 ```
+
+
+## Who we are
+* [Felipe Lira](https://github.com/felipelira)
+* [Martial Briand]
+* [Perrine Portier]
+* [Gilles Hunault] (http://forge.info.univ-angers.fr/~gh/)
+* [Claudine Landes]
+* [Marion Fischer-Le Saux]
+
+
+This directory is created to store the databases used by PrediPath.
+
+For each genus, you will retrieve a specific database containing specific marquers to detect the potential bacterial pathogenicity.
+
