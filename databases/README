@@ -2,6 +2,7 @@ This directory is created to store the databases used by PrediPath.
 
 For each genus, you will retrieve a specific database containing specific marquers to detect the potential bacterial pathogenicity.
 
+## Development
 
 PREDIPATH Database is compose by the compilation of five public datasets of sequences related to antimicrobial and heavy metal resistance, and to virulence [1-5]
 
