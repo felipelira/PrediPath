@@ -58,7 +58,8 @@ The PREDIPATH-DB was compiled using the sequences from five public repositories:
 * [Perrine Portier]
 * [Gilles Hunault](http://forge.info.univ-angers.fr/~gh/)
 * [Claudine Landes]
-* [Marion Fischer-Le Saux]
+* [Marion Fischer-Le Saux] [<img width="2%" src="figures/0.png">](https://orcid.org/0000-0002-9567-9444)
+
 
 
 This directory is created to store the databases used by PrediPath.
