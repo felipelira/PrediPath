@@ -1,4 +1,4 @@
-This folder stores the raw and clusterized databases to be used by PrediPath.
+This folder stores the raw database in BLASTp format to perform your own search against the PREDIPATH Database
 
-  - predipath_raw
-  - predipath_clusters
+ 
+ 
